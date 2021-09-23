@@ -1,5 +1,5 @@
 
-  -bags       
-  -decoratives       
-  -keychain
+  - bags       
+  - decoratives       
+  - keychain
 
