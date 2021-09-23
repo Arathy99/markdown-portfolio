@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>bags</li>
+  <li>decoratives</li>
+  <li>keychain</li>
+</ul>
